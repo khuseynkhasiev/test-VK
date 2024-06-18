@@ -1,0 +1,8 @@
+.css-1ly0gy-MuiTypography-root {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-height: 96.05px;
+}

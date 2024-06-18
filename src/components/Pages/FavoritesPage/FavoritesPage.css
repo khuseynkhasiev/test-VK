@@ -1,0 +1,14 @@
+.FavoritesPage {
+    flex-grow: 1;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.FavoritesPage__title {
+    text-align: center;
+}
+.FavoritesPage__text {
+    text-align: center;
+}
